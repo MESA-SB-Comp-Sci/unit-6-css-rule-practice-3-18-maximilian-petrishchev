@@ -1,0 +1,19 @@
+h1 {
+    color:white;
+}
+
+body{
+    background-color:black;
+}
+
+main{
+    background-color:blueviolet;
+}
+
+p{
+    color:white;
+}
+
+footer{
+    background-image:url(assets/sunset.jpg);
+}
